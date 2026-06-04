@@ -3,7 +3,7 @@
 **Summary of the Graphic**
 This artifact, *Opening the Black Box*, presents explainable AI (XAI) as a single argument moving across five panels. It opens by **defining XAI**. The methods that make a model's decisions understandable to humans — and pairs that definition with six reasons transparency matters: trust, accountability, debugging, bias detection, safety and alignment, and legal compliance. The second panel names **five obstacles** to explanation: the sheer scale of frontier models, *superposition* (single neurons encoding many unrelated concepts), the *faithfulness gap* between a model's stated and actual reasoning, the loss of fidelity that comes from approximating a model's internals, and the regulatory pressure created by the EU AI Act's transparency duties. The third panel **classifies techniques into two families**: post-hoc/behavioral methods that explain a model from the outside (LIME, SHAP, attention maps, counterfactuals) and mechanistic interpretability that decodes it from the inside (sparse autoencoders, feature dictionaries, circuits, probing). The fourth panel splits **validation** into reliability metrics (accuracy, precision/recall, F1, AUC-ROC, calibration, robustness) and explanation-quality metrics (faithfulness, fidelity, sparsity, completeness). The final panel **compares four leading labs**, such as Anthropic (Claude), OpenAI (GPT), Google DeepMind (Gemini/Gemma), and Meta (LLaMA), by their flagship efforts, core techniques, openness, and goals.
 
-🔗 **Live infographic:** [View it here](https://nicoolesy.github.io/xai/index.html)
+🔗 **Live infographic:** [View it here](https://nicoolesy.github.io/XAI/index.html)
 
 ---
 
