@@ -54,26 +54,6 @@ The central thesis runs through the whole piece: a model can be *accurate yet un
 - APA 7th edition citation and academic-integrity disclosure practices
 
 ---
-
-## References (APA 7th edition)
- 
-Anthropic. (2025, March 27). *Tracing the thoughts of a large language model.* https://www.anthropic.com/research/tracing-thoughts-language-model
- 
-European Parliament & Council of the European Union. (2024). *Regulation (EU) 2024/1689 (Artificial Intelligence Act).* Official Journal of the European Union.
- 
-Gao, L., la Tour, T. D., Tillman, H., Goh, G., Troll, R., Radford, A., Sutskever, I., Leike, J., & Wu, J. (2024). *Scaling and evaluating sparse autoencoders* (arXiv:2406.04093). arXiv. https://arxiv.org/abs/2406.04093
- 
-Lieberum, T., Rajamanoharan, S., Conmy, A., Smith, L., Sonnerat, N., Varma, V., Kramár, J., Dragan, A., Shah, R., & Nanda, N. (2024). *Gemma Scope: Open sparse autoencoders everywhere all at once on Gemma 2* (arXiv:2408.05147). arXiv. https://arxiv.org/abs/2408.05147
- 
-Lundberg, S. M., & Lee, S.-I. (2017). A unified approach to interpreting model predictions. *Advances in Neural Information Processing Systems, 30,* 4765–4774.
- 
-OpenAI. (2024, June 6). *Extracting concepts from GPT-4.* https://openai.com/index/extracting-concepts-from-gpt-4/
- 
-Ribeiro, M. T., Singh, S., & Guestrin, C. (2016). "Why should I trust you?": Explaining the predictions of any classifier. *Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining,* 1135–1144.
- 
-Templeton, A., Conerly, T., Marcus, J., Lindsey, J., Bricken, T., Chen, B., Pearce, A., Citro, C., Ameisen, E., Jones, A., Cunningham, H., Turner, N. L., McDougall, C., MacDiarmid, M., Tamkin, A., Durmus, E., Hume, T., Mosconi, F., Freeman, C. D., … Henighan, T. (2024). *Scaling monosemanticity: Extracting interpretable features from Claude 3 Sonnet.* Transformer Circuits Thread.
- 
----
  
 *AI-use disclosure: Claude (Anthropic) was used to research current interpretability work, draft the structure and prose of this document and the accompanying infographic, and assist with HTML/CSS. Sources were verified against primary publications, and the classification choices, design decisions, and reflection are my own.*
 
