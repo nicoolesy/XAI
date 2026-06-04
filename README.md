@@ -1,4 +1,3 @@
-# XAI
 # Opening the Black Box — Explanatory Document
 
 ## Summary of the Graphic
